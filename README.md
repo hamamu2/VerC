@@ -9,4 +9,4 @@
 
 ## お知らせ//ベータ版をリリースしました
 
-## hoge
+## t-takamori, r-takamori
