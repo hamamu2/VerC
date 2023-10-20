@@ -16,4 +16,4 @@
 ### __hoge, r-takamori
 
 制限中のユーザー
-### __hoge, r-takamori
+### __hoge, 
