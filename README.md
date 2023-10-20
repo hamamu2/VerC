@@ -13,7 +13,7 @@
 ## お知らせ//ベータ版をリリースしました
 <br><br><br>
 使用中のユーザー  
-### __hoge, r-takamor
+### __hoge, r-takamori
 
 制限中のユーザー
 ### __hoge, r-takamor
