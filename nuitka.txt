@@ -1,1 +1,0 @@
-nuitka --windows-disable-console --standalone --enable-plugin=tk-inter --windows-icon-from-ico="files/title.png" main.py
