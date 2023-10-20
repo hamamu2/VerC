@@ -9,4 +9,4 @@
 
 ## お知らせ//ベータ版をリリースしました
 
-## t-takamori, r-takamori
+## r-takamori
