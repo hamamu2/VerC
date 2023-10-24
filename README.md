@@ -15,7 +15,7 @@
 <br><br><br>
 
 使用中のユーザー  
-### __hoge, 
+### __hoge, r-takamori
 
 制限中のユーザー
 ### __hoge, 
